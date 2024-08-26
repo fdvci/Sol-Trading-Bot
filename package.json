@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.3",
+    "alchemy-sdk": "^3.4.1",
+    "axios": "^1.7.5",
+    "bs58": "^6.0.0",
+    "clipboardy": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "sqlite3": "^5.1.7",
+    "telegram-bot-api": "^2.0.1",
+    "uuid": "^10.0.0"
+  }
+}
